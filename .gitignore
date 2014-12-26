@@ -9,3 +9,5 @@ nbproject
 vendor
 
 app/config/local
+
+.DS_Store
